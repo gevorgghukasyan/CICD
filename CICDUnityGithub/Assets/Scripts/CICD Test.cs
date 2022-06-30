@@ -8,6 +8,6 @@ public class CICDTest
     [Test]
     public void SomeGreenTestPassing()
     {
-        Assert.Pass();
+        Assert.Fail();
     }
 }
